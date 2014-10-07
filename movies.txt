@@ -1,11 +1,8 @@
 Spirited Away
 Monty Python: The Holy Grail
 Hot Fuzz
-<<<<<<< HEAD
 Gladiator
 A Beautiful Mind
 Pulp Fiction
 Lucy
-=======
 Batman
->>>>>>> 1dcbd98142e37256cd65434f26ef0a8dbbb27ee7
