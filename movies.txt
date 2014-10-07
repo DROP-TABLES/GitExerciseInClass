@@ -1,7 +1,15 @@
-The Matrix
+<<<<<<< HEAD
+Girl Who leapt through time
+=======
+The Error
+>>>>>>> 998295099a75654e2ed3588af1dc0154242d8f29
 Spirited Away
 Monty Python: The Holy Grail
 Hot Fuzz
+<<<<<<< HEAD
 Gladiator
 A Beautiful Mind
 Pulp Fiction
+=======
+Lucy
+>>>>>>> ea2f39cc632ab9ed07678cee02ed57a9a36710c4
